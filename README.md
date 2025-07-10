@@ -6,16 +6,6 @@ Hi there! My name is Rohan Avinash Sakhare, and I am currently working as a **Ju
 
 I'm a computer engineering graduate with a growing interest in the FinTech domain. Currently based in Pune, Maharashtra, I enjoy solving real-world problems using modern technologies and working on scalable and impactful software solutions. My focus areas include backend development, databases, APIs, and system design, all tailored toward the FinTech industry.
 
-### My Projects 🚀
-
-#### Agricultural Management System
-A web-based platform developed using PHP and XAMPP to streamline and digitize agricultural processes.
-- **Skills**: JavaScript, HTML, CSS, PHP, XAMPP
-
-#### Student Helping Application
-An app designed to assist engineering students in navigating new environments by offering information about essential nearby services like hostels, messes, hospitals, and transport stations.
-- **Skills**: Firebase, UX Design, Problem Solving
-
 #### FinTech Learning & Practice (Ongoing)
 Exploring the core principles of FinTech, including:
 - **Digital Payments**
